@@ -1,6 +1,3 @@
-Aqui está um **README.md** pronto e estruturado para o repositório **[relogioAnalogico](https://github.com/ademar97/relogioAnalogico)**:
-
-```markdown
 # 🕒 Relógio Analógico
 
 Aplicação web simples e funcional de um **Relógio Analógico em tempo real**, desenvolvida com tecnologias fundamentais do ecossistema Web (HTML, CSS e JavaScript).
